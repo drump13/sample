@@ -1,5 +1,5 @@
 ## マークダウン形式テスト
 
 ### 以下の2つのうちただしい”Hello World!”を選択してください。
-- [0] Hello World!
+- [x] Hello World!
 - [ ] Hallo Ward!
